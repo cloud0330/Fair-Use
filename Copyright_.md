@@ -6,8 +6,9 @@ Millions of users upload videos onto Youtube everyday.  Little do they know that
 ###Fair Use
 Before analyzing if the video is indeed a copyright infringement, what exactly is  Fair Use?  "Fair use is a copyright principle based on the belief that the public is entitled to freely use portions of copyrighted materials for purposes of commentary and criticism" (http://fairuse.stanford.edu/overview/fair-use/).  In other words, if one feels the need to criticize an author, he/she can use a portion of their work.  Other than that, copyright owners can take down anything on the internet regarding their work.  However, there are other rules that protect this from happening.
 
-> In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—
-> 1. the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes
+> In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—  
+> 
+1. the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes
 2. the nature of the copyrighted work
 3. the amount and substantiality of the portion used in relation to the copyrighted work as a whole
 4. the effect of the use upon the potential market for or value of the copyrighted work.    
@@ -15,7 +16,8 @@ Before analyzing if the video is indeed a copyright infringement, what exactly i
 Under these circumstances, one can determine whether the work the put on the internet is a violation of copyright or if it is under the right of Fair Use.
 
 ###Analyzing the Video
-So now that the guidelines of Fair Use have been established, let's look at the video again.
+So now that the guidelines of Fair Use have been established, let's look at the video again.  
+
 |Fair Use Factors|Violation?|Why|
 |--------|---------|-------|
 |Purpose and Character of Use|Maybe|While the nature of the video is _not for commercial use_, it is also not for educational purposes.
