@@ -1,10 +1,12 @@
 #Mashdown Fair Use
 ##### _By Valerie Huang_
 
+![Counting Stars/Timber Mashup by Sam Tsui](https://i.ytimg.com/vi/OJ380x7qnvE/maxresdefault.jpg)  
+
 Millions of users upload videos onto Youtube everyday.  Little do they know that some of them are actually violating the copyright law.  The people who upload videos of their own creation, not based on another person's creation are not violating this law.  However, people who upload videos like lyrics to a song or even a mash-up of other songs are violating this law without even knowing.  Just putting the disclaimer in the information box will not dissolve the claim of copyright.  There _is_ however, a fair use law in effect.  This helps some people with the videos that they have upload onto the internet.  Depending on the artist, some of the copyright laws can be very strict but some are more lenient.  Let us see if [this video](https://www.youtube.com/watch?v=OJ380x7qnvE) is breaking any copyright laws, or if it falls under the Fair Use law.  
 
 ###Fair Use
-Before analyzing if the video is indeed a copyright infringement, what exactly is  Fair Use?  "Fair use is a copyright principle based on the belief that the public is entitled to freely use portions of copyrighted materials for purposes of commentary and criticism" (http://fairuse.stanford.edu/overview/fair-use/).  In other words, if one feels the need to criticize an author, he/she can use a portion of their work.  Other than that, copyright owners can take down anything on the internet regarding their work.  However, there are other rules that protect this from happening.
+Before analyzing if the video is indeed a copyright infringement, what exactly is  [Fair Use](http://fairuse.stanford.edu/overview/fair-use/)?  "Fair use is a copyright principle based on the belief that the public is entitled to freely use portions of copyrighted materials for purposes of commentary and criticism."  In other words, if one feels the need to criticize an author, he/she can use a portion of their work.  Other than that, copyright owners can take down anything on the internet regarding their work.  However, there are other [rules](https://www.law.cornell.edu/uscode/text/17/107) that protect this from happening.
 
 > In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—  
 > 
